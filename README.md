@@ -10,8 +10,9 @@ Projeto - Jogo "Show do Milhão"
 3 - A cada rodada ganha, o premio vai aumentando.
 4 - Se errar, perde uma parte da premiação.
 5 - É possivel encerrar o jogo, e levar o premio que está acumulado.
+6 - O jogo salva e exibe o ranking dos melhores jogadores.
 
-- Regras do jogo -
+- Como jogar -
 1 - Ao iniciar, será perguntado se deseja ver o ranking.
 2 - Logo em seguida, informe seu nome.
 3 - O jogo sorteará 5 perguntas entre 15, de múltipla escolha.
